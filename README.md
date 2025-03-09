@@ -1,3 +1,40 @@
+# 📝 Kanban Board
+
+A **fully responsive** and **interactive** Kanban board built with **React, Redux, MUI, and Drag-and-Drop** functionality. The board supports **task management, search filtering, dark mode, and smooth drag-and-drop** transitions.
+
+## 🚀 Features
+
+✅ **Add, Edit, and Delete Tasks**  
+✅ **Drag-and-Drop Task Management**  
+✅ **Search and Filter Tasks**  
+✅ **Dark Mode Support**  
+✅ **Fully Responsive Design**  
+
+## 🖥️ Tech Stack
+
+- **Frontend:** React, Redux Toolkit, Material UI (MUI)  
+- **Drag-and-Drop:** @hello-pangea/dnd  
+- **State Management:** Redux  
+- **Styling:** MUI with Theme Support  
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/YOUR_USERNAME/kanban-board.git
+   cd kanban-board
+2. **Install Dependencies**
+   ```sh
+   npm install @mui/material @emotion/react @emotion/styled react-dnd react-dnd-html5-backend @reduxjs/toolkit react-redux
+   npm install @hello-pangea/dnd
+   npm install @mui/icons-material
+   npm install @mui/material @emotion/react @emotion/styled
+
+3. **Start the development server**
+   ```sh
+   npm run dev
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
